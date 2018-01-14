@@ -1,0 +1,26 @@
+{
+    "name": "@dwp/nyc-config-base",
+    "version": "1.0.0",
+    "author": "Adam Moss",
+    "license": "ISC",
+    "description": "default configuration for nyc",
+    "keywords": [
+        "config",
+        "shareable-config",
+        "nyc",
+        "istanbul",
+        "coverage"
+    ],
+    "homepage": "https://github.com/dwp/nyc-config-base",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:dwp/nyc-config-base.git"
+    },
+    "bugs": {
+        "url": "https://github.com/dwp/nyc-config-base/issues"
+    },
+    "main": "",
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {}
+}
